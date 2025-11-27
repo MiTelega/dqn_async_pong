@@ -1,0 +1,10 @@
+stable-baselines3
+sb3-contrib
+gymnasium[classic_control,box2d,atari,accept-rom-license]
+ale-py
+shimmy
+matplotlib
+numpy
+swig
+tqdm
+opencv-python
